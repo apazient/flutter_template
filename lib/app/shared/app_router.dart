@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/app/view/app_view.dart';
+
 import 'package:flutter_template/feacher/view/feacher_view.dart';
 import 'package:go_router/go_router.dart';
 
